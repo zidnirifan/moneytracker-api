@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "zidni-project",
+  "private_key_id": "ee757b31b9feb22bf059f849a7bbd95bde617219",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC63WPOxY47bbdO\npBobqTu3NICxbC1YoNQ6FouQ/62/4ypvBEfO8YjcmRSpkLXu6jtRiTNr1uqHalWL\nHmuva7zd/LwSjPHxd3Ye0VqdT07nEg/rcy8bOpVC4JjlK9FYkgTQ+r8s9/qY4Sl+\nmShq2oLR3u8ru08J8Kj2DaGP0bilxzRP0VzYL/0fjcqNJ0GwiChLCne28mLJ1Yz0\ni5/FVqOaHNkGcylhDi5j/+yPYpzBMQaQY1Kp1u2rxtlp8BUQhlvOAoI3PDMhgSvh\nF8ulQmIKpaifWQOQOn7IiqlcJhF+smXVjwemaD/ZJ7Pue/J3TfHpOJzNYul98MAT\nZInbEpI7AgMBAAECggEAE7uZSevhbzPQ2FnKoAJ+Wdm41VjqbkzdhxzRCYjWckhX\njM2o6kOQrlWZXFFPGmGweJXCe7Aq/WMkkW0ES3asb8y77Ow8CGxoaYILeEfjDyer\nIrP71NDvk4EK5E3SQkYj2BBX698WntpNesmgU62rhDoZ4PEGEbNQ7wWAJXiCGo9W\nbDx8u/1zwpFFyRFy0RLUcAeojtGBzKE5o6RZPYhTNmgZcAHnahFIAdirYKoM+sJf\naXPu0lEBmqKDFpBXEkmCn0yF5fQNXgGua4w1yKwg7TQSKGqOkakl6OhlXCBTUzr0\nFX2xvwL40Nb/o/X2QBYRFFDrsmp3iOhq2n8w/Lw0YQKBgQDoYeNeMKad6PSjEI64\nyYA3JeQ1uT8DveSIVmXMZzJO5PQ2InRSvUQLR948DlYhV28ZnWQLqcHNHjnqqoJ2\nHYOgJ8X5OVvS3ypEhTyPzS2APeQTSBBfvf8aRc9k47/Xu1F710ZG/RQbuwpSaCkx\nO3F2YAOsKiHCQvEuxGAYPEMbAwKBgQDN2zphrFBXcctf311UTp4xAi1ph1pTAd3l\ncIbCAt10MlX+GwmJrPZTbWMqvvFkuF/R7YWqpNhkNbSruu++K7uac34DfLT5X6WH\ntHAiMHFyjoBBv6tq+IpFyB1bVfwoH2z5RC4ZJEJRZrKCb4CdjGP5JF7JzCKsvZO8\ngSzOsQoqaQKBgAE6+3Q1N7ygTiNK5CaQUpB4L+Qk7fN8Huil5HYXmcmXJr/eoNUL\nUX/pyoBw5v3YM6tkDPKO3IrUfSQD8Rrk/xxq+X5fUmAkdFnWhsKQKIyER1/ews9u\n9xnRgs6a8hoXUNAiDKo1jtSywdQ73vP2x5wD2CEiO/mGVzaTLZsTPpu3AoGBAMUX\nv+biTy3Z8slBF59vgkAUAJzIDe/pmqVhPnSkv5jP1Mts4Y3ifxlTYx37IS245W0e\nB9tg5xnS3b+KRJ4ESyNOrnjyPmeAbwDl/nKNhSEUVLIerCXH/sNfHNRlF/7mT7S8\n1ZIWyDQdqo396dtuHg3dB7AX9Z8EB131I4xlrwD5AoGBANvudPiUS9DVMJNZ4vfh\nyBwaDohhCgb++PbRiTH8h2abdmGyrg1mMGHDcmCwxjWs5hoJ0Rh48SvabeJOByla\n9tQk0GXkbYuB0Q8HtDL4/9kWDG5FTvcXXTHYtgcFM0X4iGV2w3DgyrcFOl1ZlUw+\nDU9vydjCB2b0rWaSbqo9nJLO\n-----END PRIVATE KEY-----\n",
+  "client_email": "zidni-account@zidni-project.iam.gserviceaccount.com",
+  "client_id": "110026528480229999112",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/zidni-account%40zidni-project.iam.gserviceaccount.com"
+}

@@ -5,12 +5,12 @@ const dateFormat = require('dateformat')
 
 // TODO: Sesuaikan konfigurasi Storage
 const gcs = new Storage({
-    projectId: '[PROJECT ID]',
-    keyFilename: '[PATH TO SERVICE ACCOUNT KEY JSON]' //example: ./serviceaccountkey.json (file ini bisa didapatkan ketika membuat service account)
+    projectId: 'zidni-project',
+    keyFilename: './zidni-project-ee757b31b9fe.json' //example: ./serviceaccountkey.json (file ini bisa didapatkan ketika membuat service account)
 })
 
 // TODO: Tambahkan nama bucket yang digunakan
-const bucketName = '[BUCKET NAME]'
+const bucketName = 'record-store'
 const bucket = gcs.bucket(bucketName)
 
 function getPublicUrl(filename) {
